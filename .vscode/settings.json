@@ -4,5 +4,6 @@
         "Bastián",
         "Latam"
     ],
-    "cSpell.language": "en,es,es-ES"
+    "cSpell.language": "en,es,es-ES",
+    "liveServer.settings.port": 5501
 }
